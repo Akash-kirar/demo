@@ -1,0 +1,33 @@
+.hero {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  padding: 100px 0;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+#skills .col-md-3 {
+  padding: 1rem;
+  background-color: #ffffff;
+  margin: 0.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  font-weight: bold;
+}
+.footer-custom {
+  padding-bottom: 20px;
+}
+
+.footer-custom a:hover {
+  color: #0dcaf0;
+  transition: color 0.3s ease;
+}
+
+a img {
+  text-decoration: none;
+  border: none;
+}
+a {
+  text-decoration: none;
+}
